@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "803830068084",
+    "firebase_url": "https://globeproject-f4a10-default-rtdb.firebaseio.com",
+    "project_id": "globeproject-f4a10",
+    "storage_bucket": "globeproject-f4a10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803830068084:android:94d10a1feb7a470bcb3221",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMaKVHuYxzpQXNE7m5Np-h2Bw9r0Z9-cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
