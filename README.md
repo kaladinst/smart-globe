@@ -11,14 +11,22 @@
 Users can touch different countries on the physical globe to trigger visual, auditory, and informational feedback on the app, powered by APIs and Google Gemini AI. It also features single-player and real-time multiplayer trivia games.
 
 ---
-![WhatsApp Image 2026-02-24 at 19 55 44](https://github.com/user-attachments/assets/d259962c-beb1-46dc-8835-bf2c1f09502b)
-![WhatsApp Image 2026-02-24 at 19 55 44 (1)](https://github.com/user-attachments/assets/ddfd8fe0-d773-4327-b405-23aae917dae9)
-![WhatsApp Image 2026-02-24 at 19 55 44 (3)](https://github.com/user-attachments/assets/856452ca-4855-4b20-95b0-49c7a396e541)
-![WhatsApp Image 2026-02-23 at 21 00 12](https://github.com/user-attachments/assets/b02a1117-c5c5-452f-9193-3316ba9b4a8e)
 
-![WhatsApp Image 2026-02-24 at 19 56 39](https://github.com/user-attachments/assets/5ab27f89-045e-4b2f-b949-e28e24dc8b4c)
-![WhatsApp Image 2026-02-24 at 19 56 39 (1)](https://github.com/user-attachments/assets/b31c9c87-f8f2-4302-b5df-b3b298862266)
+### 📸 Project Gallery
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d259962c-beb1-46dc-8835-bf2c1f09502b" width="30%">
+  <img src="https://github.com/user-attachments/assets/ddfd8fe0-d773-4327-b405-23aae917dae9" width="30%">
+  <img src="https://github.com/user-attachments/assets/856452ca-4855-4b20-95b0-49c7a396e541" width="30%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b02a1117-c5c5-452f-9193-3316ba9b4a8e" width="30%">
+  <img src="https://github.com/user-attachments/assets/5ab27f89-045e-4b2f-b949-e28e24dc8b4c" width="30%">
+  <img src="https://github.com/user-attachments/assets/b31c9c87-f8f2-4302-b5df-b3b298862266" width="30%">
+</p>
+
+---
 
 ## ✨ Key Features
 
