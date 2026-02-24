@@ -35,7 +35,6 @@ Users can touch different countries on the physical globe to trigger visual, aud
 * **Smart Lighting:** The globe's NeoPixel LEDs instantly light up in the colors of the touched country's flag.
 * **AI-Powered Insights:** Uses **Google Gemini AI** to generate unique, encyclopedic facts about the country in real-time.
 * **Live Weather & Time:** Fetches live weather conditions and calculates the local time using the **OpenWeatherMap API**.
-* **Immersive Media:** Plays the country's national anthem and displays an automated photo slideshow.
 * **Teleport (Street View):** A quick action button that launches Google Maps Street View in a random prominent location within that country.
 
 ### 🎮 Game Modes
